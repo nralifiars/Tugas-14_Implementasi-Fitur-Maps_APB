@@ -74,27 +74,6 @@ _PinMarker           - CustomPainter untuk menggambar marker / pin lokasi di ata
 
 ---
 
-## Cara Menjalankan
-
-Prasyarat:
-- Flutter SDK versi 3.x ke atas
-- Koneksi Internet yang aktif (Peta harus mengunduh Map Tiles)
-
-Langkah:
-```bash
-cd tugas7_camera_app
-flutter pub get
-flutter run
-```
-
-Untuk menjalankan ke perangkat tertentu:
-```bash
-flutter run -d chrome          # Browser web
-flutter run -d <device-id>    # Perangkat Android / Emulator
-```
-
----
-
 ## Bukti Hasil (Screenshot)
 <img width="326" height="658" alt="Screenshot 2026-05-24 232445" src="https://github.com/user-attachments/assets/c8b9390e-b75f-445b-bad9-6c0f57302cb0" />
 <img width="317" height="655" alt="Screenshot 2026-05-24 232456" src="https://github.com/user-attachments/assets/889c298e-f738-4f5f-9517-0deed07aca4f" />
