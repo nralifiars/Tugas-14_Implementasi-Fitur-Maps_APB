@@ -96,20 +96,9 @@ flutter run -d <device-id>    # Perangkat Android / Emulator
 ---
 
 ## Bukti Hasil (Screenshot)
-
-### Tampilan Awal (Telkom University Surabaya)
-<br><br>
-
-
-### Tampilan Setelah Pindah (Jalan Tunjungan)
-<br><br>
+<img width="326" height="658" alt="Screenshot 2026-05-24 232445" src="https://github.com/user-attachments/assets/c8b9390e-b75f-445b-bad9-6c0f57302cb0" />
+<img width="317" height="655" alt="Screenshot 2026-05-24 232456" src="https://github.com/user-attachments/assets/889c298e-f738-4f5f-9517-0deed07aca4f" />
 
 
-### Mode Peta Satelit
-<br><br>
-
-
-### Mode Peta Navigasi
-<br><br>
 
 
